@@ -1,0 +1,1 @@
+Esta pasta é para desenvolvimentos experimentais de código. O código aqui existente deverá continuar abrangido pela licença GPL.

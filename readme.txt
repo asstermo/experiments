@@ -1,0 +1,1 @@
+This folder is for experimental code. Code present in this folder should still be considered under the GNU GPL.
